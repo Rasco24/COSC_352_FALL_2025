@@ -1,0 +1,32 @@
+﻿Results for: "gradient descent optimization"
+
+[1] Score: 8.42 (page 12)
+"Gradient descent iteratively updates parameters by moving in the
+direction of steepest descent. The learning rate controls step size
+and significantly impacts optimization convergence..."
+
+[2] Score: 7.18 (page 34)
+"Stochastic gradient descent (SGD) approximates the true gradient
+using mini-batches, trading accuracy for computational efficiency
+in large-scale optimization problems..."
+
+[3] Score: 6.91 (page 8)
+"For convex functions, gradient descent guarantees convergence to
+the global minimum. The descent lemma provides theoretical bounds
+on convergence rate..."
+
+Relevance Ranking:
+- Passages mentioning query terms more often score higher
+- Terms appearing infrequently contribute more to relevance
+- Longer passages should not have an unfair advantage simply by word count
+
+Constraints:
+- No external search or information retrieval libraries
+- No machine learning or embedding models
+- Python libraries only allowed for PDF text extraction
+
+Questions to Consider:
+- What constitutes a "passage" in a PDF?
+- How should very common words be handled?
+- Where are the performance bottlenecks?
+- What is SIMD and when does it help?
